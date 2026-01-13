@@ -1,0 +1,39 @@
+.background{
+    background-color: #f0f9ff;
+}
+.backgroundhead{
+    text-align: center;
+}
+
+a{
+    font-weight: bold;
+    margin-right: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #0369b6;
+}
+.a{
+    background-color:#e0f2fe;
+}
+a:hover{
+    color: aliceblue;
+    background-color: rgb(63, 127, 163);
+}
+
+.backgroundbody{
+    background-color: #ffffff;
+}
+
+h1,h2{
+    color:#155e75;
+}
+li:hover{
+    background-color: #dbeafe;
+}
+
+.foot{
+    background-color: rgb(35, 112, 86);
+    color: aliceblue;
+    text-align: center;
+    line-height: 0.5cm;
+}

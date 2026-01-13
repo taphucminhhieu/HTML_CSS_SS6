@@ -42,7 +42,6 @@ button{
 select:focus ,input:focus ,textarea:focus{
     border: 2px solid #0f476d;
     background-color: #a0f8ec;
-    box-shadow: 0 0 5px rgba(0, 191, 255, 0.5);
 }
 
 
